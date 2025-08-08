@@ -1,0 +1,9 @@
+# Virtual environment
+.venv
+
+# Environment variables
+.env
+
+src/Practical_multi_ai_agents_and_advanced_use_cases_with_crewai.egg-info
+
+__pycache__
